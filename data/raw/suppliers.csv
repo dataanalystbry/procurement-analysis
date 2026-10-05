@@ -1,0 +1,13 @@
+supplier_id,supplier_name,country,lead_time_days
+S001,Apex Components,Costa Rica,39
+S002,Boreal Metals,USA,10
+S003,Caribe Electronics,USA,42
+S004,Delta Fasteners,Costa Rica,32
+S005,Echo Cable Co,Puerto Rico,7
+S006,Frontier Plastics,Mexico,6
+S007,Gulf Precision,Mexico,10
+S008,Harbor Industrial,Mexico,18
+S009,Island Circuits,Costa Rica,19
+S010,Jetstream Parts,USA,37
+S011,Keystone Hydraulics,Costa Rica,43
+S012,Luna Optics,Costa Rica,6
